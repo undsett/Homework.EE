@@ -5,8 +5,8 @@ import java.awt.*;
 
 public class PolygonTest {
     public static void main(String[] args) {
-        int[] xPoints = {-2, 2, -2, 2};
-        int[] yPoints = {2, 2, -2, -2};
+        int[] xPoints = {2, 2, -2, -2};
+        int[] yPoints = {2, -2, -2, 2};
 
 
 
